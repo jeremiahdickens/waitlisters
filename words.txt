@@ -1,0 +1,2 @@
+smile=happy=yay
+smile
