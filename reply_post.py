@@ -3,6 +3,9 @@ import praw
 import pdb
 import re
 import os
+import emoji
+
+print(emoji.emojize('Python is :thumbs_up_sign:'))
 
 
 # Create the Reddit instance
