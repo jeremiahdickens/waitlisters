@@ -3,6 +3,9 @@ import praw
 import pdb
 import re
 import os
+import emoji
+
+print(emoji.emojize('Python is :thumbsup:', use_aliases=True))
 
 
 # Create the Reddit instance
@@ -32,9 +35,9 @@ for submission in subreddit.hot(limit=10):
     if submission.id not in posts_replied_to:
 
         # Do a case insensitive search
-        if re.search("i love python", submission.title, re.IGNORECASE):
+        if re.search("Hello Bot", submission.title, re.IGNORECASE):
             # Reply to the post
-            submission.reply("Nigerian scammer bot says: It's all about the Bass (and Python)")
+            submission.reply((emoji.emojize('Python is :thumbsup:', use_aliases=True)))
             print("Bot replying to : ", submission.title)
 
             # Store the current id into our list
