@@ -5,7 +5,7 @@ import re
 import os
 import emoji
 
-print(emoji.emojize('Python is :thumbs_up_sign:'))
+print(emoji.emojize('Python is :thumbsup:', use_aliases=True))
 
 
 # Create the Reddit instance
