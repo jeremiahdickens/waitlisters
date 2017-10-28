@@ -14,5 +14,3 @@ def toEmojiString(str):
         for stuff in tuple[0]:
             str = str.replace(stuff, tuple[1]);
     return str;
-
-print(dict);
