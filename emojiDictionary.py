@@ -6,6 +6,8 @@ file = open(wordFile)
 #Parses file and creates dictionary
 for line in file:
     stuff = line.strip().split("=");
+    #Sorts to descending by String length
+    stuff.sort(key=lambda x : len(x),reverse=True);
     line = next(file)
     thing = line.strip();
     dict.append((stuff,':%s:'%thing));
