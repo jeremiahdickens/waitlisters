@@ -149,6 +149,12 @@
 				font-size: 10pt;
 				line-height: 1.75;
 			}
+			div {
+		    width: 90%;
+		    margin: auto;
+		    /* background: red; */
+		    margin-bottom: 16px
+			}
 
 		}
 
@@ -530,7 +536,7 @@
 					text-align: center;
 					text-indent: 3.75em;
 					white-space: nowrap;
-					background-color: #ff7496;
+					background-color: #75baff;
 					/*border-color: #ff7496;*/
 
 				}
@@ -568,7 +574,7 @@
 					}
 
 					ul.icons li a:hover {
-						background-color: #75baff;
+						background-color: #ff7496;
 					}
 
 			@media screen and (max-width: 480px) {
@@ -734,13 +740,15 @@
 			position: relative;
 			display: block;
 			margin-bottom: 1em;
+
 		}
 
 			#main .avatar img {
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
-				box-shadow: 0 0 0 1.5em #ffffff;
+				box-shadow: 0 0 0 1.5em #ffffff;			
+
 			}
 
 			#main .avatar:before {
@@ -757,16 +765,28 @@
 
 		@media screen and (max-width: 480px) {
 
-			#main {
-				min-width: 0;
-				width: 100%;
-				padding: 4em 2em 2.5em 2em ;
-			}
+				#main {
+					min-width: 0;
+					width: 100%;
+					padding: 4em 2em 2.5em 2em ;
+					width: calc(100%);
+				}
+
+				#main .avatar img {
+					display: block;
+					margin: 0 auto;
+					border-radius: 100%;
+					box-shadow: 0 0 0 1.5em #ffffff;	
+					width: calc(100%);
+
+				}
 
 				#main .avatar:before {
 					left: -2em;
-					width: calc(100% + 4em);
+					width: calc(100%);
 				}
+
+
 
 		}
 
@@ -868,7 +888,7 @@
 		}
 
 		div {
-		    width: 60%;
+		    width: 90%;
 		    margin: auto;
 		    /* background: red; */
 		    margin-bottom: 16px
