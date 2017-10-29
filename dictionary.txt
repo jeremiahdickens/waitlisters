@@ -1,4 +1,4 @@
-bowtie
+bowtie=bowties
 bowtie
 smile=smiley=smiles=:)
 smile
@@ -6,11 +6,11 @@ laugh=lol=lul=kek=laughing=xd
 laughing
 blush
 blush
-smirk
+smirk=smirks
 smirk
 kiss=kisses
 kissing_heart
-wink=;)
+wink=;)=winks
 wink
 sleep=sleeping=sleeps
 sleeping
@@ -26,45 +26,44 @@ meh
 expressionless
 ugh
 unamused
-moan
+moan=moans
 weary
 fear=fearful=scare=scared
 fearful
 nervous
 cold_sweat
-tear=cry=cried=cries=:’(
+tear=cry=cried=cries=:’(=sad=sed
 cry
-sob=sobbing
+sob=sobbing=sobs
 sob
 lmao=lmfao=rofl
 joy
-scream=screamed
+scream=screamed=screams
 scream
-neckbeard
+neckbeard=neckbeards
 neckbeard
 tired
 tired_face
 angry=anger=rage
 rage
-athlete=huff
+athlete=huff=athletes
 triumph
 yum=tasty
 yum
-sick=mask=unhealthy
+sick=mask=unhealthy=masks
 mask
 sunglasses=cool
 sunglasses
 hmm
 neutral_face
-angel=innocent
+angel=innocent=angels
 innocent
+alien=aliens
 alien
-alien
-heart=love=loving
+heart=love=loving=hearts
 heart
 sparkle=sparkles
 sparkles
-star=stars
 boom=explosion
 boom
 exclamation=!
@@ -79,22 +78,23 @@ drip=drop=squirt
 sweat_drops
 music=musical note=song=sing
 notes
-fire=burn=burned=flame=flames=flamed=lit
+fire=burn=burned=flame=flames=flamed=lit=fires
 fire
-poop=shit=turd
+poop=shit=turd=poops=shits=turds
 poop
-+1=like=upvote=thumbs up
++1=like=upvote=thumbs up=likes=upvotes
 thumbsup
--1=dislike=downvote=thumbs down
+-1=dislike=downvote=thumbs down=dislikes=downvotes
 thumbsdown
 ok=perfect=on point=on fleek
 ok_hand
-punch=fist
+punch=fist=fists
 punch
 peace
+v
+wave=waves
 wave
-wave
-hand
+hand=hands
 hand
 up
 point_up
@@ -108,29 +108,29 @@ praise
 raised_hands
 pray=bless=blessed
 pray
+clap=claps
 clap
-clap
-strong=buff=flex=muscle
+strong=buff=flex=muscle=muscles
 muscle
-metal=brutal
+metal=brutal=hook em
 metal
 fuck=f u
 fu
-run=running=runner
+run=running=runner=runs=runners
 runner
+couple=couples
 couple
-couple
-family=fam
+family=fam=families
 family
-dance=dancer
+dance=dancer=dances=dancers
 dancer
 no
 no_good
-bride
+bride=brides
 bride_with_veil
+massage=messages
 massage
-massage
-haircut=hair cut
+haircut=hair cut=haircuts=hair cuts
 haircut
 nail polish=nails
 nail_care
@@ -138,31 +138,31 @@ boy=boys
 boy
 girl=girls
 girl
-woman=womens
+woman=women
 woman
 men=man
 man
 baby=babe=babies
 baby
-grandma=granny=grandmother
+grandma=granny=grandmother=grandmas=grandmothers
 older_woman
-grandpa=grandfather
+grandpa=grandfather=granpas=grandfathers
 older_man
-blond=blonde
+blond=blonde=blondes=blonds
 person_with_blond_hair
-turban
+turban=turbans
 man_with_turban
-construction worker
+construction worker=construction workers
 construction_worker
-cop=fuzz=popo=police
+cop=fuzz=popo=police=cops
 cop
+angel=angels
 angel
-angel
-princess=queen
+princess=queen=princesses=queens
 princess
-ogre=goblin
+ogre=goblin=ogres=goblins
 japanese_ogre
-devil=satan=lucifer
+devil=satan=lucifer=devils
 japanese_goblin
 see no evil
 see_no_evil
@@ -170,171 +170,171 @@ hear no evil
 hear_no_evil
 speak no evil
 speak_no_evil
-skull=skeleton=dead=rip
+skull=skeleton=dead=rip=skulls=skeletons
 skull
 foot=feet
 feet
-lips=mouth
+lips=mouth=mouths
 lips
+droplet=droplets
 droplet
-droplet
-ear=hear=heard
+ear=hear=heard=ears
 ear
-eye=eye=see
+eye=eyes=see
 eyes
 nose=noses=smell
 nose
-tongue=lick=tongues
+tongue=lick=tongues=licks
 tongue
-anon=anonymous
+anon=anonymous=anons
 bust_in_silhouette
-think=thought
+think=thought=thoughts
 thought_balloon
-sun=sunny=bright
+sun=sunny=bright=suns
 sunny
-umbrella=rain=raining
+umbrella=rain=raining=umbrellas
 umbrella
-cloud=vape cloud
+cloud=vape cloud=clouds=vape clouds
 cloud
-snowflake
+snowflake=snowflakes
 snowflake
 snowman=snow man
 snowman
 lightning=lightning bolt=zap
 zap
-swirl
+swirl=swirls
 cyclone
-fog=foggy
+fog=foggy=fogs
 foggy
-ocean=sea
+ocean=sea=seas=oceans
 ocean
-cat=pussy
+cat=pussy=cats
 cat
-dog=doggo=doggie=doggy
+dog=doggo=doggie=doggy=doggos=dogs
 dog
 mouse=mice
 mouse
-hampster=hamster
+hampster=hamster=hampsters=hamsters
 hamster
-rabbit=bunny=bunnies
+rabbit=bunny=bunnies=rabbits
 rabbit
+wolf=wolves
 wolf
-wolf
-frog=froggy=pepe
+frog=froggy=pepe=frogs
 frog
+tiger=tigers
 tiger
-tiger
+koala=koalas
 koala
-koala
+bear=bears
 bear
-bear
+pig=pigs
 pig
-pig
+cow=cows
 cow
-cow
+boar=boars
 boar
-boar
-monkey
+monkey=monkeys
 monkey_face
+horse=horses
 horse
-horse
-camel
+camel=camels
 camel
 sheep
 sheep
+elephant=elephants
 elephant
-elephant
-panda
+panda=pandas
 panda_face
-snake=snek
+snake=snek=snakes
 snake
+bird=birds
 bird
-bird
+chicken=chickens
 chicken
-chicken
-penguin=pingu
+penguin=pingu=penguins
 penguin
+turtle=turtles
 turtle
-turtle
-bug=caterpillar
+bug=caterpillar=bugs=caterpillars
 bug
-bee=bumble bee=bumblebee
+bee=bumble bee=bumblebee=bees
 honeybee
+ant=ants
 ant
-ant
+beetle=beetles
 beetle
-beetle
+snail=snails
 snail
-snail
-octopus
+octopus=octopi
 octopus
 fish
 fish
+whale=whales
 whale
-whale
+dolphin=dolphins
 dolphin
-dolphin
+ram=rams
 ram
-ram
-rat
+rat=rats
 rat
 water buffalo
 water_buffalo
+dragon=dragons
 dragon
-dragon
+goat=goats
 goat
-goat
-rooster=cock
+rooster=cock=roosters
 rooster
-ox
+ox=oxen
 ox
 blowfish=blow fish=pufferfish=puffer fish
 blowfish
 croc=crocodile
 crocodile
+leopard=leopards
 leopard
-leopard
+poodle=poodles
 poodle
-poodle
-paw=paw prints
+paw=paw prints=paw print
 paw_prints
+bouquet=bouquets
 bouquet
-bouquet
-cherry blossom
+cherry blossom=cherry blossoms
 cherry_blossom
 tulip=tulips
 tulip
 clover=four leaf clover
 four_leaf_clover
+rose=roses
 rose
-rose
-sunflower=sun flower
+sunflower=sun flower=sunflowers=sun flowers
 sunflower
 hibiscus
 hibiscus
-maple=maple leaf
+maple=maple leaf=weed=weeds=pot
 maple_leaf
 leafs=leaves
 leaves
+herb=herbs
 herb
-herb
-mushroom=shroom
+mushroom=shroom=mushrooms=shrooms
 mushroom
+cactus=cacti
 cactus
-cactus
-palmtree=palm tree
+palmtree=palm tree=palm trees=palmtrees
 palm_tree
 evergreen
 evergreen_tree
 tree
 deciduous_tree
-chestnut
+chestnut=chestnuts
 chestnut
 seedling=sprout
 seedling
+blossom=blossoms
 blossom
-blossom
-shell=conch shell=conch
+shell=conch shell=conch=shells
 shell
 moon=moonface=moon face
 new_moon_with_face
@@ -344,43 +344,43 @@ crescent=crescent moon
 crescent_moon
 earth=globe
 earth_americas
-volcano
+volcano=volcanoes
 volcano
 galaxy=milky way
 milky_way
 bamboo
 bamboo
+dolls=doll
 dolls
-dolls
-backpack=book bag
+backpack=book bag=backpacks
 school_satchel
 graduation=graduation cap
 mortar_board
+flags=flag
 flags
-flags
+fireworks=firework
 fireworks
-fireworks
-sparker
+sparkler=sparklers
 sparkler
-chime
+chime=chimes
 wind_chime
 pumpkin=jack o lantern
 jack_o_lantern
-ghost
+ghost=ghosts
 ghost
 santa=santa claus
 santa
 christmas tree
 christmas_tree
-gift=present
+gift=present=gifts=presents
 gift
-bell
+bell=bells
 bell
 tada=confetti
 tada
 confetti ball
 confetti_ball
-balloon
+balloon=balloons
 balloon
 crystal ball
 crystal_ball
@@ -406,7 +406,7 @@ fax
 fax
 vhs
 vhs
-sound=speaker
+sound=speaker=speakers
 speaker
 loudspeaker=megaphone
 loudspeaker
@@ -426,15 +426,15 @@ unlock
 unlock
 lock
 lock
+key=keys
 key
-key
-bulb=lightbulb
+bulb=lightbulb=bulbs=lightbulbs
 bulb
 flashlight=torch
 flashlight
 plug
 electric_plug
-battery
+battery=batteries
 battery
 mailbox
 mailbox
@@ -446,71 +446,71 @@ toilet
 toilet
 wrench=tool
 wrench
-screw=nut and bolt
+screw=nut and bolt=screws
 nut_and_bolt
+hammer=hammers
 hammer
-hammer
-seat=chair
+seat=chair=seats=chairs
 seat
 money
 moneybag
 yen
 yen
-dollar
+dollar=dollars
 dollar=usd
-pound=gbp
+pound=gbp=pounds
 pound
+euro=euros
 euro
-euro
-credit card=debit card
+credit card=debit card=credit cards=debit cards
 credit_card
-email=e-mail
+email=e-mail=emails=e-mails
 e-mail
+envelope=envelopes
 envelope
-envelope
+package=packages
 package
-package
+door=doors
 door
-door
-smoking=cigarettes
+smoking=cigarettes=smoke
 smoking
-bomb=explosive
+bomb=explosive=bombs=explosives
 bomb
-gun=firearm
+gun=firearm=guns=firearms
 gun
-knife
+knife=knives
 hocho
-pill=medicine
+pill=medicine=pills
 pill
-syringe=injection
+syringe=injection=injections=syringes
 syringe
+scroll=scrolls
 scroll
-scroll
-clipboard
+clipboard=clipboards
 clipboard
 calendar
 date
 scissors
 scissors
-thumb tac=pushpin
+thumb tack=pushpin
 pushpin
 paperclip
 paperclip
-pencil
+pencil=pencils
 pencil2
-ruler
+ruler=rulers
 straight_ruler
-notebook=notes=book
+notebook=notes=book=notebooks=note=books
 notebook
-bookmark
+bookmark=bookmarks
 bookmark
 name badge=name tag
 name_badge
+microscope=microscopes
 microscope
-microscope
+telescope=telescopes
 telescope
-telescope
-newspaper
+newspaper=newspapers
 newspaper
 football
 football
@@ -526,39 +526,39 @@ table pool=8 ball
 8ball
 bowling
 bowling
-golf
+golf=golfing
 golf
 bike=bicyclist
 bicyclist
 horse racing
 horse_racing
+snowboarder=snowboard
 snowboarder
-snowboarder
-swimmer=swimming
+swimmer=swimming=swim
 swimmer
-surfer=surfing
+surfer=surfing=surf
 surfer
 ski
 ski
-poker=playing cards
+poker=playing cards=cards
 spades
-gem=diamond=gemstone
+gem=diamond=gemstone=gems=diamonds=gemstones
 gem
+ring=rings
 ring
-ring
-trophy
+trophy=trophies
 trophy
 music=treble
 musical_score
-piano=piano keyboard
+piano=piano keyboard=pianos
 musical_keyboard
-violin=viola=string instrument
+violin=viola=string instrument=violins=violas
 violin
-video game=controller
+video game=controller=video games=controllers
 video_game
 dice
 game_die
-dart
+dart=darts
 dart
 mahjong
 mahjong
@@ -566,7 +566,7 @@ clapper=movie
 clapper
 art
 art
-microphone=mic
+microphone=mic=mikes
 microphone
 headphones=earphones
 headphones
@@ -574,39 +574,39 @@ trumpet=horn
 trumpet
 sax=saxophone
 saxophone
-guitar=rock
+guitar=rock=guitars
 guitar
+shoe=shoes
 shoe
-shoe
+sandal=sandals
 sandal
-sandal
-high heel
+high heel=high heels
 high_heel
 lipstick
 lipstick
-boot
+boot=boots
 boot
 shirt=tshirt
 tshirt
-dress
+dress=dresses
 dress
 jeans
 jeans
+kimono=kimonos
 kimono
-kimono
+bikini=bikinis
 bikini
-bikini
-ribbon
+ribbon=ribbons
 ribbon
 tophat=magician hat
 tophat
+crown=crowns
 crown
-crown
-umbrella
+umbrella=umbrellas
 closed_umbrella
 briefcase=business
 briefcase
-handbag
+handbag=handbags
 handbag
 purse
 purse
@@ -632,7 +632,7 @@ wine=wine glass=red wine
 wine_glass
 pizza
 pizza
-hamburger=burger
+hamburger=burger=burgers
 hamburger
 fries
 fries
@@ -642,7 +642,7 @@ spaghetti=pasta
 spaghetti
 curry
 curry
-shrimp
+shrimp=shrimps
 fried_shrimp
 bento
 bento
@@ -650,9 +650,9 @@ sushi
 sushi
 fish cake
 fish_cake
-rice ball
+rice ball=rice balls
 rice_ball
-rice cracker
+rice cracker=rice crackers
 rice_cracker
 rice
 rice
@@ -660,11 +660,11 @@ ramen=noodles
 ramen
 stew
 stew
-egg=fried egg
+egg=fried egg=eggs
 egg
 bread
 bread
-doughnut=donut
+doughnut=donut=donuts=doughnuts
 doughnut
 custard=pudding
 custard
@@ -672,75 +672,75 @@ ice cream=soft cream=frozen yogurt
 icecream
 shaved ice
 shaved_ice
-birthday cake=cake
+birthday cake=cake=cakes
 cake
-cookie
+cookie=cookies
 cookie
 chocolate
 chocolate_bar
 candy
 candy
-lollipop
+lollipop=lollipops
 lollipop
 honey
 honey_pot
+apple=apples
 apple
-apple
-tangerine=orange
+tangerine=orange=oranges=tangerines
 tangerine
-lemon
+lemon=lemons
 lemon
 cherry=cherries
 cherries
+grapes=grape
 grapes
-grapes
+watermelon=watermelons
 watermelon
-watermelon
+strawberry=strawberries
 strawberry
-strawberry
+peach=peaches
 peach
-peach
+melon=melons
 melon
-melon
+banana=bananas
 banana
-banana
+pear=pears
 pear
-pear
+pineapple=pineapples
 pineapple
-pineapple
-sweet potato
+sweet potato=sweet potatoes
 sweet_potato
-eggplant=dick=penis
+eggplant=dick=penis=eggplants=dicks
 eggplant
-tomato
+tomato=tomatoes
 tomato
 corn
 corn
-house=home
+house=home=houses=homes
 house
-house withgarden
+house with garden
 house_with_garden
+school=schools
 school
-school
-office
+office=offices
 office
 post office
 post_office
+hospital=hospitals
 hospital
-hospital
+bank=banks
 bank
-bank
-convenience store=drugstore
+convenience store=drugstore=drugstores
 convenience_store
 love hotel=honeymoon
 love_hotel
+hotel=hotels
 hotel
-hotel
-wedding=marriage
+wedding=marriage=weddings
 wedding
+church=churches
 church
-church
-mall=department store
+mall=department store=malls
 department_store
 european post office
 european_post_office
@@ -748,17 +748,17 @@ city sunrise
 city_sunrise
 city sunset
 city_sunset
-japanese castle=palace
+japanese castle=palace=palaces
 japanese_castle
-castle
+castle=castles
 european_castle
+tent=tents
 tent
-tent
-factory
+factory=factories
 factory
 tokyo tower=tokyo
 tokyo_tower
-japan=island
+japan=island=islands
 japan
 mt fuji=fuji=mount fuji
 mount_fuji
@@ -774,39 +774,39 @@ bridge at night
 bridge_at_night
 carousel horse
 carousel_horse
-rainbow=gay=gay pride=lgbt
+rainbow=gay=gay pride=lgbt=rainbows
 rainbow
-ferris wheel
+ferris wheel=ferris wheels
 ferris_wheel
+fountain=fountains
 fountain
-fountain
-rollercoaster=roller coaster
+rollercoaster=roller coaster=roller coasters
 roller_coaster
-ship=cruise ship
+ship=cruise ship=ships=cruise ships
 ship
+speedboat=speedboats
 speedboat
-speedboat
+boat=boats
 boat
-boat
+sailboat=sailboats
 sailboat
-sailboat
+rowboat=rowboats
 rowboat
-rowboat
+anchor=anchors
 anchor
-anchor
-rocket=spaceship=starship
+rocket=spaceship=starship=rockets=spaceships=starships
 rocket
-airplane=plane
+airplane=plane=airplanes=planes
 airplane
-helicopter
+helicopter=helicopters
 helicopter
 locomotive=steam train=steam locomotive=steam engine
 steam_locomotive
-tram
+tram=trams
 tram
 mountain railway
 mountain_railway
-bike
+bike=bikes
 bike
 tramway=aerial tramway
 aerial_tramway
@@ -814,23 +814,23 @@ suspension railway
 suspension_railway
 ski lift
 mountain_cableway
+tractor=tractors
 tractor
-tractor
-blue car
+blue car=blue cars
 blue_car
-oncoming car
+oncoming car=oncoming cars
 oncoming_automobile
-car=vehicle=auto
+car=vehicle=auto=cars=vehicles=autos=automobile=automobiles
 car
 red car
 red_car
-taxi
+taxi=trucks
 taxi
 oncoming taxi
 oncoming_taxi
-lorry=semitruck
+lorry=semi truck
 articulated_lorry
-bus
+buses=bus
 bus
 oncoming bus
 oncoming_bus
@@ -842,15 +842,15 @@ police car
 oncoming_police_car
 fire truck=fire engine
 fire_engine
+ambulance=ambulances
 ambulance
-ambulance
-minibus=van=minivan
+minibus=van=minivan=vans
 minibus
+truck=trucks
 truck
-truck
+train=trains
 train
-train
-station=train station
+station=train station=stations
 station
 train2
 train2
@@ -866,21 +866,21 @@ railcar=railway car
 railway_car
 trolley
 trolleybus
-ticket
+ticket=tickets
 ticket
 gas pump=gas=gas station=petrol=fuel pump
 fuelpump
 vertical traffic light
 vertical_traffic_light
-traffic light
+traffic light=traffic lights=traffic signal=traffic signals
 traffic_light
 warning=caution
 warning
 construction=speedway
 construction
+beginner=beginners
 beginner
-beginner
-atm
+atm=atms
 atm
 vegas=gamble=gambling=slots=slot machine
 slot_machine
@@ -1012,7 +1012,7 @@ skip=fast forward
 fast_forward
 information=info
 information_source
-ok
+ok=okay
 ok
 shuffle
 twisted_rightwards_arrows
@@ -1032,7 +1032,7 @@ free
 free
 ng_
 ng
-cinema=movie theater
+cinema=movie theater=theater
 cinema
 koko
 koko
@@ -1080,7 +1080,7 @@ metro=subway
 metro
 baggage=baggage claim
 baggage_claim
-accept
+accept=accepted
 accept
 wc=water closet
 wc
@@ -1094,19 +1094,19 @@ congratulations_
 congratulations
 m
 m
-passport control
+passport control=passport
 passport_control
-left luggage
+left luggage=luggage
 left_luggage
 customs
 customs
-ideograph
+ideograph=ideographs
 ideograph_advantage
 cl_
 cl
 sos
 sos
-id=identification
+id=identification=ids
 id
 no entry
 no_entry_sign
@@ -1140,7 +1140,7 @@ vibrate=vibrate mode
 vibration_mode
 phone off
 mobile_phone_off
-chart
+chart=charts
 chart
 currency_exchange=currency exchange=currency
 currency_exchange
@@ -1186,9 +1186,9 @@ diamond_shape_with_a_dot_inside
 diamond_shape_with_a_dot_inside
 recycle
 recycle
+end=ends
 end
-end
-back
+back=backs
 back
 on
 on
@@ -1230,7 +1230,7 @@ clock6
 clock6
 clock630
 clock630
-clock7=clock=time
+clock7=clock=time=clocks
 clock7
 clock730
 clock730
@@ -1242,7 +1242,7 @@ clock9
 clock9
 clock930
 clock930
-heavy_dollar_sign=dollar sign=dollar=money
+heavy_dollar_sign=dollar sign=dollar=money=dollars=dollar signs
 heavy_dollar_sign
 copyright
 copyright
@@ -1260,27 +1260,27 @@ interrobang
 interrobang
 o
 o
-heavy_multiplication_x=multiply=multiplication
+heavy_multiplication_x=multiply=multiplication=multiplies
 heavy_multiplication_x
-heavy_plus_sign=plus=add
+heavy_plus_sign=plus=add=adds
 heavy_plus_sign
-heavy_minus_sign=minus=subtract
+heavy_minus_sign=minus=subtract=subtracts
 heavy_minus_sign
-heavy_division_sign=division=divide=divided
+heavy_division_sign=division=divide=divided=divides
 heavy_division_sign
 white_flower
 white_flower
 100
 100
-heavy_check_mark=check
+heavy_check_mark=check=checks
 heavy_check_mark
 ballot_box_with_check
 ballot_box_with_check
-radio_button=button
+radio_button=button=buttons
 radio_button
 link
 link
-curly_loop=loop
+curly_loop=loop=loops
 curly_loop
 wavy_dash=wavy
 wavy_dash
@@ -1300,7 +1300,7 @@ black_medium_square
 black_medium_square
 white_medium_square
 white_medium_square
-black_large_square=square
+black_large_square=square=squares
 black_large_square
 white_large_square
 white_large_square
@@ -1310,7 +1310,7 @@ black_square_button
 black_square_button
 white_square_button
 white_square_button
-black_circle=circle
+black_circle=circle=circles
 black_circle
 white_circle
 white_circle
