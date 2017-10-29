@@ -888,8 +888,23 @@
 		}
 
 		div {
-		    width: 90%;
+		    width: 50%;
 		    margin: auto;
 		    /* background: red; */
 		    margin-bottom: 16px
 		}
+
+		@media screen and (max-width: 480px) {
+
+			body, input, select, textarea {
+				font-size: 10pt;
+				line-height: 1.75;
+			}
+			div {
+			    width: 90%;
+			    margin: auto;
+			    /* background: red; */
+			    margin-bottom: 16px
+			}
+
+		}		
