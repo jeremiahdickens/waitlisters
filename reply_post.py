@@ -5,7 +5,7 @@ import re
 import os
 import emoji
 
-print(emoji.emojize('Python is :thumbsup:', use_aliases=True))
+#print(emoji.emojize('Python is :thumbsup:', use_aliases=True))
 # recieving modified string, and the submission
 def replyMaster(emojified_comment, submission):
     # Create the Reddit instance
