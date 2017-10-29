@@ -1,3 +1,4 @@
+import re;
 dict = [];
 
 wordFile = 'words.txt'
@@ -20,7 +21,10 @@ def toEmojiString(str):
     original = str;
     for tuple in dict:
         for stuff in tuple[0]:
-            str = str.replace(stuff, tuple[1]);
+            #\\b is a built in regex thing that is used to match word start/end
+            #(?!:) next group is not :
+            pattern = re.compile(r'(?!:)(\b)'+stuff+r'(?!:)(\b)');
+            str = re.sub(pattern, tuple[1], str);
     global lastHadEmojiBool;
     lastHadEmojiBool = not str.__eq__(original);
     return str;
