@@ -32,7 +32,7 @@ fear=fearful=scare=scared
 fearful
 nervous
 cold_sweat
-tear=cry=cried=cries=:’(
+tear=cry=cried=cries=:â€™(
 cry
 sob=sobbing
 sob
@@ -349,8 +349,6 @@ galaxy=milky way
 milky_way
 bamboo
 bamboo
-
-----Start----
 dolls
 dolls
 backpack=book bag
@@ -1065,9 +1063,9 @@ sa_
 sa
 restroom
 restroom
-mens’ room
+mensâ€™ room
 mens
-women’s room=ladies’ room
+womenâ€™s room=ladiesâ€™ room
 womens
 baby symbol
 baby_symbol
@@ -1115,7 +1113,7 @@ underage
 underage
 no mobile phones
 no_mobile_phones
-don’t litter=do not litter
+donâ€™t litter=do not litter
 do_not_litter
 non-potable water
 non-potable_water
