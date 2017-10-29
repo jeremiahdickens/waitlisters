@@ -1,7 +1,7 @@
 import re;
 dict = [];
 
-wordFile = 'words.txt'
+wordFile = 'emojiDictionary.txt'
 file = open(wordFile)
 
 #Parses file and creates dictionary
@@ -9,22 +9,23 @@ for line in file:
     stuff = line.strip().split("=");
     #Sorts to descending by String length
     stuff.sort(key=lambda x : len(x),reverse=True);
-    line = next(file)
+    line = next(file).strip();
     thing = line.strip();
     dict.append((stuff,':%s:'%thing));
 
 lastHadEmojiBool = False;
-
 #Takes string to check for emojis as parameter
 #Returns tuple String: modifiedString
 def toEmojiString(str):
     original = str;
     for tuple in dict:
         for stuff in tuple[0]:
-            #\\b is a built in regex thing that is used to match word start/end
-            #(?!:) next group is not :
-            pattern = re.compile(r'(?!:)(\b)'+stuff+r'(?!:)(\b)');
-            str = re.sub(pattern, tuple[1], str);
+            #REGEX THING DO NOT CHANGE
+            #MY LIFE WAS PUT INTO THIS
+            temp = str;
+            escapedStuff = re.sub(r'([\.\\\+\*\?\[\^\]\$\(\)\{\}\!\<\>\|\:\-])', r'\\\1', stuff);
+            pattern = re.compile('( |^|$|\'|\"|\.|,|\\|/|\?|\;|\]|\[)'+escapedStuff+'( |^|$|\'|\"|\.|,|\\|/|\?|\;|\]|\[)');
+            str = pattern.sub(tuple[1], str);
     global lastHadEmojiBool;
     lastHadEmojiBool = not str.__eq__(original);
     return str;
