@@ -19,10 +19,11 @@ for submission in subreddit.hot(limit=5):
 
 #Obtains submission object (multiple ways to do this)
 submission = reddit.submission(url='https://www.reddit.com/r/pythonforengineers/comments/79d7cw/hello_bot/')
-
 submission.comments.replace_more(limit=0)
+
 for top_level_comment in submission.comments:
     #print(top_level_comment.body)
     smile = emojiDictionary.toEmojiString((top_level_comment.body))
-    print(emoji.emojize(smile, use_aliases=True))
-    #print(str(top_level_comment))
+    smile = emoji.emojize(smile, use_aliases=True)
+    if(emojiDictionary.lastHadEmoji() == True):
+        print(smile)
