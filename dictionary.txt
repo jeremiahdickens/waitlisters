@@ -636,7 +636,7 @@ hamburger=burger
 hamburger
 fries
 fries
-poultry leg=chicken leg=
+poultry leg=chicken leg
 poultry_leg
 spaghetti=pasta
 spaghetti
