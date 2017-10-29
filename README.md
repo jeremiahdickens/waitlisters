@@ -1,2 +1,2 @@
 # waitlisters
-- Text2Emoji - A HackTX project
+- Text2Emoji - A HackTX project 😃
