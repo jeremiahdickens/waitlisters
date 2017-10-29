@@ -1,0 +1,1335 @@
+bowtie
+bowtie
+smile=smiley=smiles=:)
+smile
+laugh=lol=lul=kek=laughing=xd
+laughing
+blush
+blush
+smirk
+smirk
+kiss=kisses
+kissing_heart
+wink=;)
+wink
+sleep=sleeping=sleeps
+sleeping
+worry=worried=worries
+worried
+wow=:O
+open_mouth
+yikes
+grimacing
+confuse=confused
+confused
+meh
+expressionless
+ugh
+unamused
+moan
+weary
+fear=fearful=scare=scared
+fearful
+nervous
+cold_sweat
+tear=cry=cried=cries=:’(
+cry
+sob=sobbing
+sob
+lmao=lmfao=rofl
+joy
+scream=screamed
+scream
+neckbeard
+neckbeard
+tired
+tired_face
+angry=anger=rage
+rage
+athlete=huff
+triumph
+yum=tasty
+yum
+sick=mask=unhealthy
+mask
+sunglasses=cool
+sunglasses
+hmm
+neutral_face
+angel=innocent
+innocent
+alien
+alien
+heart=love=loving
+heart
+sparkle=sparkles
+sparkles
+star=stars
+boom=explosion
+boom
+exclamation=!
+exclamation
+question=?
+question
+zzz=sleep
+zzz
+blow=air=fart
+dash
+drip=drop=squirt
+sweat_drops
+music=musical note=song=sing
+notes
+fire=burn=burned=flame=flames=flamed=lit
+fire
+poop=shit=turd
+poop
++1=like=upvote=thumbs up
+thumbsup
+-1=dislike=downvote=thumbs down
+thumbsdown
+ok=perfect=on point=on fleek
+ok_hand
+punch=fist
+punch
+peace
+wave
+wave
+hand
+hand
+up
+point_up
+down
+point_down
+left
+point_left
+right
+point_right
+praise
+raised_hands
+pray=bless=blessed
+pray
+clap
+clap
+strong=buff=flex=muscle
+muscle
+metal=brutal
+metal
+fuck=f u
+fu
+run=running=runner
+runner
+couple
+couple
+family=fam
+family
+dance=dancer
+dancer
+no
+no_good
+bride
+bride_with_veil
+massage
+massage
+haircut=hair cut
+haircut
+nail polish=nails
+nail_care
+boy=boys
+boy
+girl=girls
+girl
+woman=womens
+woman
+men=man
+man
+baby=babe=babies
+baby
+grandma=granny=grandmother
+older_woman
+grandpa=grandfather
+older_man
+blond=blonde
+person_with_blond_hair
+turban
+man_with_turban
+construction worker
+construction_worker
+cop=fuzz=popo=police
+cop
+angel
+angel
+princess=queen
+princess
+ogre=goblin
+japanese_ogre
+devil=satan=lucifer
+japanese_goblin
+see no evil
+see_no_evil
+hear no evil
+hear_no_evil
+speak no evil
+speak_no_evil
+skull=skeleton=dead=rip
+skull
+foot=feet
+feet
+lips=mouth
+lips
+droplet
+droplet
+ear=hear=heard
+ear
+eye=eye=see
+eyes
+nose=noses=smell
+nose
+tongue=lick=tongues
+tongue
+anon=anonymous
+bust_in_silhouette
+think=thought
+thought_balloon
+sun=sunny=bright
+sunny
+umbrella=rain=raining
+umbrella
+cloud=vape cloud
+cloud
+snowflake
+snowflake
+snowman=snow man
+snowman
+lightning=lightning bolt=zap
+zap
+swirl
+cyclone
+fog=foggy
+foggy
+ocean=sea
+ocean
+cat=pussy
+cat
+dog=doggo=doggie=doggy
+dog
+mouse=mice
+mouse
+hampster=hamster
+hamster
+rabbit=bunny=bunnies
+rabbit
+wolf
+wolf
+frog=froggy=pepe
+frog
+tiger
+tiger
+koala
+koala
+bear
+bear
+pig
+pig
+cow
+cow
+boar
+boar
+monkey
+monkey_face
+horse
+horse
+camel
+camel
+sheep
+sheep
+elephant
+elephant
+panda
+panda_face
+snake=snek
+snake
+bird
+bird
+chicken
+chicken
+penguin=pingu
+penguin
+turtle
+turtle
+bug=caterpillar
+bug
+bee=bumble bee=bumblebee
+honeybee
+ant
+ant
+beetle
+beetle
+snail
+snail
+octopus
+octopus
+fish
+fish
+whale
+whale
+dolphin
+dolphin
+ram
+ram
+rat
+rat
+water buffalo
+water_buffalo
+dragon
+dragon
+goat
+goat
+rooster=cock
+rooster
+ox
+ox
+blowfish=blow fish=pufferfish=puffer fish
+blowfish
+croc=crocodile
+crocodile
+leopard
+leopard
+poodle
+poodle
+paw=paw prints
+paw_prints
+bouquet
+bouquet
+cherry blossom
+cherry_blossom
+tulip=tulips
+tulip
+clover=four leaf clover
+four_leaf_clover
+rose
+rose
+sunflower=sun flower
+sunflower
+hibiscus
+hibiscus
+maple=maple leaf
+maple_leaf
+leafs=leaves
+leaves
+herb
+herb
+mushroom=shroom
+mushroom
+cactus
+cactus
+palmtree=palm tree
+palm_tree
+evergreen
+evergreen_tree
+tree
+deciduous_tree
+chestnut
+chestnut
+seedling=sprout
+seedling
+blossom
+blossom
+shell=conch shell=conch
+shell
+moon=moonface=moon face
+new_moon_with_face
+full moon
+full_moon
+crescent=crescent moon
+crescent_moon
+earth=globe
+volcano
+volcano
+galaxy=milky way
+milky_way
+bamboo
+bamboo
+
+----Start----
+dolls
+dolls
+backpack=book bag
+school_satchel
+graduation=graduation cap
+mortar_board
+flags
+flags
+fireworks
+fireworks
+sparker
+sparkler
+chime
+wind_chime
+pumpkin=jack o lantern
+jack_o_lantern
+ghost
+ghost
+santa=santa claus
+santa
+christmas tree
+christmas_tree
+gift=present
+gift
+bell
+bell
+tada=confetti
+tada
+confetti ball
+confetti_ball
+balloon
+balloon
+crystal ball
+crystal_ball
+cd=dvd=optical disk
+cd
+floppy disk
+floppy_disk
+camera
+camera
+video camera=camcorder
+video_camera
+movie camera=movie
+movie_camera
+computer
+computer
+tv
+tv
+iphone=cell phone=mobile phone
+iphone
+phone=landline=land line=telephone
+phone
+fax
+fax
+vhs
+vhs
+sound=speaker
+speaker
+loudspeaker=megaphone
+loudspeaker
+hourglass
+hourglass
+alarm=alarm clock
+alarm_clock
+watch=wrist watch
+watch
+radio
+radio
+satellite
+satellite
+magnifier
+mag
+unlock
+unlock
+lock
+lock
+key
+key
+bulb=lightbulb
+bulb
+flashlight=torch
+flashlight
+plug
+electric_plug
+battery
+battery
+mailbox
+mailbox
+bathtub
+bathtub
+shower
+shower
+toilet
+toilet
+wrench=tool
+wrench
+screw=nut and bolt
+nut_and_bolt
+hammer
+hammer
+seat=chair
+seat
+money
+moneybag
+yen
+yen
+dollar
+dollar=usd
+pound=gbp
+pound
+euro
+euro
+credit card=debit card
+credit_card
+email=e-mail
+e-mail
+envelope
+envelope
+package
+package
+door
+door
+smoking=cigarettes
+smoking
+bomb=explosive
+bomb
+gun=firearm
+gun
+knife
+hocho
+pill=medicine
+pill
+syringe=injection
+syringe
+scroll
+scroll
+clipboard
+clipboard
+calendar
+date
+scissors
+scissors
+thumb tac=pushpin
+pushpin
+paperclip
+paperclip
+pencil
+pencil2
+ruler
+straight_ruler
+notebook=notes=book
+notebook
+bookmark
+bookmark
+name badge=name tag
+name_badge
+microscope
+microscope
+telescope
+telescope
+newspaper
+newspaper
+football
+football
+basketball
+basketball
+soccer
+soccer
+baseball
+baseball
+tennis
+tennis
+table pool=8 ball
+8ball
+bowling
+bowling
+golf
+golf
+bike=bicyclist
+bicyclist
+horse racing
+horse_racing
+snowboarder
+snowboarder
+swimmer=swimming
+swimmer
+surfer=surfing
+surfer
+ski
+ski
+poker=playing cards
+spades
+gem=diamond=gemstone
+gem
+ring
+ring
+trophy
+trophy
+music=treble
+musical_score
+piano=piano keyboard
+musical_keyboard
+violin=viola=string instrument
+violin
+video game=controller
+video_game
+dice
+game_die
+dart
+dart
+mahjong
+mahjong
+clapper=movie
+clapper
+art
+art
+microphone=mic
+microphone
+headphones=earphones
+headphones
+trumpet=horn
+trumpet
+sax=saxophone
+saxophone
+guitar=rock
+guitar
+shoe
+shoe
+sandal
+sandal
+high heel
+high_heel
+lipstick
+lipstick
+boot
+boot
+shirt=tshirt
+tshirt
+dress
+dress
+jeans
+jeans
+kimono
+kimono
+bikini
+bikini
+ribbon
+ribbon
+tophat=magician hat
+tophat
+crown
+crown
+umbrella
+closed_umbrella
+briefcase=business
+briefcase
+handbag
+handbag
+purse
+purse
+corrective lens=eyeglasses=glasses
+eyeglasses
+fishing=fishing pole
+fishing_pole_and_fish
+coffee=caffeine
+coffee
+tea
+tea
+sake
+sake
+baby_bottle
+baby_bottle
+beer
+beer
+cocktail
+cocktail
+tropical drink
+tropical_drink
+wine=wine glass=red wine
+wine_glass
+pizza
+pizza
+hamburger=burger
+hamburger
+fries
+fries
+poultry leg=chicken leg=
+poultry_leg
+spaghetti=pasta
+spaghetti
+curry
+curry
+shrimp
+fried_shrimp
+bento
+bento
+sushi
+sushi
+fish cake
+fish_cake
+rice ball
+rice_ball
+rice cracker
+rice_cracker
+rice
+rice
+ramen=noodles
+ramen
+stew
+stew
+egg=fried egg
+egg
+bread
+bread
+doughnut=donut
+doughnut
+custard=pudding
+custard
+ice cream=soft cream=frozen yogurt
+icecream
+shaved ice
+shaved_ice
+birthday cake=cake
+cake
+cookie
+cookie
+chocolate
+chocolate_bar
+candy
+candy
+lollipop
+lollipop
+honey
+honey_pot
+apple
+apple
+tangerine=orange
+tangerine
+lemon
+lemon
+cherry=cherries
+cherries
+grapes
+grapes
+watermelon
+watermelon
+strawberry
+strawberry
+peach
+peach
+melon
+melon
+banana
+banana
+pear
+pear
+pineapple
+pineapple
+sweet potato
+sweet_potato
+eggplant=dick=penis
+eggplant
+tomato
+tomato
+corn
+corn
+house=home
+house
+house withgarden
+house_with_garden
+school
+school
+office
+office
+post office
+post_office
+hospital
+hospital
+bank
+bank
+convenience store=drugstore
+convenience_store
+love hotel=honeymoon
+love_hotel
+hotel
+hotel
+wedding=marriage
+wedding
+church
+church
+mall=department store
+department_store
+european post office
+european_post_office
+city sunrise
+city_sunrise
+city sunset
+city_sunset
+japanese castle=palace
+japanese_castle
+castle
+european_castle
+tent
+tent
+factory
+factory
+tokyo tower=tokyo
+tokyo_tower
+japan=island
+japan
+mt fuji=fuji=mount fuji
+mount_fuji
+mountain sunrise=sunrise over mountains
+sunrise_over_mountains
+sunrise
+sunrise
+stars=star=shooting star
+stars
+lady liberty=statue of liberty
+statue_of_liberty
+bridge at night
+bridge_at_night
+carousel horse
+carousel_horse
+rainbow=gay=gay pride=lgbt
+rainbow
+ferris wheel
+ferris_wheel
+fountain
+fountain
+rollercoaster=roller coaster
+roller_coaster
+ship=cruise ship
+ship
+speedboat
+speedboat
+boat
+boat
+sailboat
+sailboat
+rowboat
+rowboat
+anchor
+anchor
+rocket=spaceship=starship
+rocket
+airplane=plane
+airplane
+helicopter
+helicopter
+locomotive=steam train=steam locomotive=steam engine
+steam_locomotive
+tram
+tram
+mountain railway
+mountain_railway
+bike
+bike
+tramway=aerial tramway
+aerial_tramway
+suspension railway
+suspension_railway
+ski lift
+mountain_cableway
+tractor
+tractor
+blue car
+blue_car
+oncoming car
+oncoming_automobile
+car=vehicle=auto
+car
+red car
+red_car
+taxi
+taxi
+oncoming taxi
+oncoming_taxi
+lorry=semitruck
+articulated_lorry
+bus
+bus
+oncoming bus
+oncoming_bus
+rotating light=flashing lights
+rotating_light
+police_car
+police_car
+police car
+oncoming_police_car
+fire truck=fire engine
+fire_engine
+ambulance
+ambulance
+minibus=van=minivan
+minibus
+truck
+truck
+train
+train
+station=train station
+station
+train2
+train2
+bullettrain_front
+bullettrain_front
+bullet train
+bullettrain_side
+light rail
+light_rail
+monorail
+monorail
+railcar=railway car
+railway_car
+trolley
+trolleybus
+ticket
+ticket
+gas pump=gas=gas station=petrol=fuel pump
+fuelpump
+vertical traffic light
+vertical_traffic_light
+traffic light
+traffic_light
+warning=caution
+warning
+construction=speedway
+construction
+beginner
+beginner
+atm
+atm
+vegas=gamble=gambling=slots=slot machine
+slot_machine
+bus stop
+busstop
+barber=barbershop=barber pole
+barber
+hotsprings=java=hot springs
+hotsprings
+finish=checkered flag=finish line
+checkered_flag
+crossed_flags
+crossed_flags
+lantern=izakaya
+izakaya_lantern
+easter island=stone statue=statue=stone head=moyai
+moyai
+circus=circus tent
+circus_tent
+theatre=performing arts
+performing_arts
+pin=pushpin
+round_pushpin
+flag=pennant
+triangular_flag_on_post
+japan
+jp
+korea
+kr
+canada
+cn
+america=usa=united states=united states of america
+us
+france
+fr
+spain
+es
+italy
+it
+russia
+ru
+great britain=gb
+gb
+england=uk=united kingdom
+uk
+germany=deutschland
+de
+one
+one
+two
+two
+three
+three
+four
+four
+five
+five
+six
+six
+seven
+seven
+eight
+eight
+nine
+nine
+ten
+keycap_ten
+numbers=1234
+1234
+zero
+zero
+hash=hashtag=octothorpe=pound
+hash
+symbols
+symbols
+arrow_backward
+arrow_backward
+arrow_down
+arrow_down
+arrow_forward
+arrow_forward
+arrow_left
+arrow_left
+capital letters
+capital_abcd
+letters
+abcd
+alphabet
+abc
+southwest
+arrow_lower_left
+southeast
+arrow_lower_right
+right
+arrow_right
+arrow_up
+arrow_up
+northwest
+arrow_upper_left
+northeast
+arrow_upper_right
+arrow_double_down
+arrow_double_down
+arrow_double_up
+arrow_double_up
+arrow_down_small
+arrow_down_small
+arrow_heading_down
+arrow_heading_down
+arrow_heading_up
+arrow_heading_up
+leftwards_arrow_with_hook
+leftwards_arrow_with_hook
+arrow_right_hook
+arrow_right_hook
+left_right_arrow
+left_right_arrow
+arrow_up_down
+arrow_up_down
+arrow_up_small
+arrow_up_small
+clockwise
+arrows_clockwise
+counterclockwise
+arrows_counterclockwise
+rewind
+rewind
+skip=fast forward
+fast_forward
+information=info
+information_source
+ok
+ok
+shuffle
+twisted_rightwards_arrows
+repeat
+repeat
+repeat once
+repeat_one
+new
+new
+top
+top
+up
+up
+cool
+cool
+free
+free
+ng_
+ng
+cinema=movie theater
+cinema
+koko
+koko
+signal=signal strength
+signal_strength
+u5272
+u5272
+u5408
+u5408
+u55b6
+u55b6
+u6307
+u6307
+u6708
+u6708
+u6709
+u6709
+u6e80
+u6e80
+u7121
+u7121
+u7533
+u7533
+u7a7a
+u7a7a
+u7981
+u7981
+sa_
+sa
+restroom
+restroom
+mens’ room
+mens
+women’s room=ladies’ room
+womens
+baby symbol
+baby_symbol
+no smoking
+no_smoking
+parking
+parking
+wheelchair
+wheelchair
+metro=subway
+metro
+baggage=baggage claim
+baggage_claim
+accept
+accept
+wc=water closet
+wc
+potable water
+potable_water
+put litter in its place
+put_litter_in_its_place
+secret_
+secret
+congratulations_
+congratulations
+m
+m
+passport control
+passport_control
+left luggage
+left_luggage
+customs
+customs
+ideograph
+ideograph_advantage
+cl_
+cl
+sos
+sos
+id=identification
+id
+no entry
+no_entry_sign
+underage
+underage
+no mobile phones
+no_mobile_phones
+don’t litter=do not litter
+do_not_litter
+non-potable water
+non-potable_water
+no bicycles=dismount zone
+no_bicycles
+no pedestrians
+no_pedestrians
+children crossing
+children_crossing
+do not enter
+no_entry
+eight_spoked_asterisk=asterisk
+eight_spoked_asterisk
+sparkle
+sparkle
+eight_pointed_black_star
+eight_pointed_black_star
+heart_decoration
+heart_decoration
+vs=versus
+vs
+vibrate=vibrate mode
+vibration_mode
+phone off
+mobile_phone_off
+chart
+chart
+currency_exchange=currency exchange=currency
+currency_exchange
+aries
+aries
+taurus
+taurus
+gemini
+gemini
+cancer
+cancer
+leo
+leo
+virgo
+virgo
+libra
+libra
+scorpius
+scorpius
+sagittarius
+sagittarius
+capricorn
+capricorn
+aquarius
+aquarius
+pisces
+pisces
+ophiuchus
+ophiuchus
+six_pointed_star
+six_pointed_star
+negative_squared_cross_mark
+negative_squared_cross_mark
+a
+a
+b
+b
+ab
+ab
+o2
+o2
+diamond_shape_with_a_dot_inside
+diamond_shape_with_a_dot_inside
+recycle
+recycle
+end
+end
+back
+back
+on
+on
+soon
+soon
+clock1
+clock1
+clock130
+clock130
+clock10
+clock10
+clock1030
+clock1030
+clock11
+clock11
+clock1130
+clock1130
+clock12
+clock12
+clock1230
+clock1230
+clock2
+clock2
+clock230
+clock230
+clock3
+clock3
+clock330
+clock330
+clock4
+clock4
+clock430
+clock430
+clock5
+clock5
+clock530
+clock530
+clock6
+clock6
+clock630
+clock630
+clock7=clock=time
+clock7
+clock730
+clock730
+clock8
+clock8
+clock830
+clock830
+clock9
+clock9
+clock930
+clock930
+heavy_dollar_sign=dollar sign=dollar=money
+heavy_dollar_sign
+copyright
+copyright
+registered
+registered
+tm=trademark
+tm
+x
+x
+heavy_exclamation_mark=exclamation=exclamation mark
+heavy_exclamation_mark
+bangbang=bang bang
+bangbang
+interrobang
+interrobang
+o
+o
+heavy_multiplication_x=multiply=multiplication
+heavy_multiplication_x
+heavy_plus_sign=plus=add
+heavy_plus_sign
+heavy_minus_sign=minus=subtract
+heavy_minus_sign
+heavy_division_sign=division=divide=divided
+heavy_division_sign
+white_flower
+white_flower
+100
+100
+heavy_check_mark=check
+heavy_check_mark
+ballot_box_with_check
+ballot_box_with_check
+radio_button=button
+radio_button
+link
+link
+curly_loop=loop
+curly_loop
+wavy_dash=wavy
+wavy_dash
+Part_alternation_mark
+part_alternation_mark
+trident
+trident
+black_small_square
+black_small_square
+white_small_square
+white_small_square
+black_medium_small_square
+black_medium_small_square
+white_medium_small_square
+white_medium_small_square
+black_medium_square
+black_medium_square
+white_medium_square
+white_medium_square
+black_large_square=square
+black_large_square
+white_large_square
+white_large_square
+white_check_mark
+white_check_mark
+black_square_button
+black_square_button
+white_square_button
+white_square_button
+black_circle=circle
+black_circle
+white_circle
+white_circle
+red_circle
+red_circle
+large_blue_circle
+large_blue_circle
+large_blue_diamond
+large_blue_diamond
+large_orange_diamond
+large_orange_diamond
+small_blue_diamond
+small_blue_diamond
+small_orange_diamond
+small_orange_diamond
+small_red_triangle=triangle
+small_red_triangle
+small_red_triangle_down
+small_red_triangle_down
+ship it=otp
+shipit
