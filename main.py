@@ -1,5 +1,7 @@
 #Main file
 import praw
+import emojiDictionary
+import emoji
 
 #Old code
 
@@ -20,4 +22,7 @@ submission = reddit.submission(url='https://www.reddit.com/r/pythonforengineers/
 
 submission.comments.replace_more(limit=0)
 for top_level_comment in submission.comments:
-    print(top_level_comment.body)
+    #print(top_level_comment.body)
+    smile = emojiDictionary.toEmojiString((top_level_comment.body))
+    print(emoji.emojize(smile, use_aliases=True))
+    #print(str(top_level_comment))
