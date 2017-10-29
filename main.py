@@ -10,12 +10,16 @@ import emojiDictionary
 import emoji
 import reply_post
 
+subreddit = input("What subreddit's comments do you want to convert(Submit URL) - type d for default subreddit: ")
+if (subreddit == "d"):
+    subreddit = ("https://www.reddit.com/r/text2emoji/comments/79e46t/test_post/")
+
 print("running...")
 
 reddit = praw.Reddit('bot1') #Creating reddit instance
 
-#Obtains submission object (multiple ways to do this)
-submission = reddit.submission(url='https://www.reddit.com/r/text2emoji/comments/79e46t/test_post/')
+#Obtains submission object
+submission = reddit.submission(url=subreddit)
 submission.comments.replace_more(limit=0)
 
 for top_level_comment in submission.comments:
@@ -24,8 +28,5 @@ for top_level_comment in submission.comments:
     if(emojiDictionary.lastHadEmoji() == True):
         print("To be posted to Reddit")
         print(emojiString)
-        print(top_level_comment)
+        print()
         reply_post.replyMaster(emojiString, top_level_comment)
-
-#To do:
-#Change comment selection
