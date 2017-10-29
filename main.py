@@ -1,29 +1,34 @@
 #Main file
+"""
+Gets string from comments off reddit
+passes string to emojiDictionary
+Gets it back(converted)
+passes to poster
+"""
 import praw
 import emojiDictionary
 import emoji
 
-#Old code
-
-print("running")
+print("running...")
 reddit = praw.Reddit('bot1') #Creating reddit instance
 
-"""
-subreddit = reddit.subreddit("Learnpython")
-for submission in subreddit.hot(limit=5):
-    print("Title: ", submission.title)
-    print("Text: ", submission.selftext)
-    print("Score: ", submission.score)
-    print("---------\n")
-"""
-
 #Obtains submission object (multiple ways to do this)
-submission = reddit.submission(url='https://www.reddit.com/r/pythonforengineers/comments/79d7cw/hello_bot/')
+submission = reddit.submission(url='https://www.reddit.com/r/text2emoji/comments/79e46t/test_post/')
 submission.comments.replace_more(limit=0)
 
 for top_level_comment in submission.comments:
-    #print(top_level_comment.body)
-    smile = emojiDictionary.toEmojiString((top_level_comment.body))
-    smile = emoji.emojize(smile, use_aliases=True)
-    if(emojiDictionary.lastHadEmoji() == True):
-        print(smile)
+    emojiString = emojiDictionary.toEmojiString((top_level_comment.body))
+    emojiString = emoji.emojize(emojiString, use_aliases=True)
+    if(emojiDictionary.lastHadEmoji() == True or True):
+        print(emojiString)
+        print(top_level_comment)
+        #Eventually pass to poster code
+
+
+
+"""
+TODO:
+Change subreddit
+Change comment selection
+
+"""
