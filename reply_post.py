@@ -37,7 +37,7 @@ def replyMaster(emojified_comment, submission):
         # Do a case insensitive search
         #if re.search("Hello Bot", submission.title, re.IGNORECASE):
         # Reply to the comment
-        submission.reply(emojified_comment)
+        submission.reply("Text2emoji bot: " + emojified_comment)
         #print("Bot replying to : ", submission.title)
 
         # Store the current id into our list
