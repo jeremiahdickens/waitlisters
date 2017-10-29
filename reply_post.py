@@ -32,15 +32,15 @@ def replyMaster(emojified_comment, submission):
     #print(submission.title)
 
     # If we haven't replied to this post before
-    if submission.id not in posts_replied_to:
+    if submission not in posts_replied_to:
 
         # Do a case insensitive search
         #if re.search("Hello Bot", submission.title, re.IGNORECASE):
-            # Reply to the post
+        # Reply to the comment
         submission.add_comment(emojified_comment)
         #print("Bot replying to : ", submission.title)
 
-            # Store the current id into our list
+        # Store the current id into our list
         #posts_replied_to.append(submission.id)
 
     # Write our updated list back to the file
