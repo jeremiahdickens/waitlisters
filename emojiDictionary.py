@@ -34,7 +34,7 @@ def toEmojiString(str):
         i+=1;
     global lastHadEmojiBool;
     lastHadEmojiBool = not str.__eq__(original);
-    if counter >= 5:
+    if counter >= 10: #Change to specify modification level
         return str;
     else:
         return False;
