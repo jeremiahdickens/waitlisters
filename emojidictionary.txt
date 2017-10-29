@@ -343,6 +343,7 @@ full_moon
 crescent=crescent moon
 crescent_moon
 earth=globe
+earth_americas
 volcano
 volcano
 galaxy=milky way
