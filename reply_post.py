@@ -7,7 +7,7 @@ import emoji
 
 print(emoji.emojize('Python is :thumbsup:', use_aliases=True))
 # recieving modified string, and the submission
-def(emojified_comment, submission)
+def replyMaster(emojified_comment, submission):
     # Create the Reddit instance
     reddit = praw.Reddit('bot1')
 
@@ -29,7 +29,7 @@ def(emojified_comment, submission)
     # Get the top 5 values from our subreddit
     #subreddit = reddit.subreddit('pythonforengineers')
     #for submission in subreddit.hot(limit=10):
-    print(submission.title)
+    #print(submission.title)
 
     # If we haven't replied to this post before
     if submission.id not in posts_replied_to:
@@ -37,11 +37,11 @@ def(emojified_comment, submission)
         # Do a case insensitive search
         #if re.search("Hello Bot", submission.title, re.IGNORECASE):
             # Reply to the post
-        submission.reply(emojified_comment)
-        print("Bot replying to : ", submission.title)
+        submission.add_comment(emojified_comment)
+        #print("Bot replying to : ", submission.title)
 
             # Store the current id into our list
-        posts_replied_to.append(submission.id)
+        #posts_replied_to.append(submission.id)
 
     # Write our updated list back to the file
     with open("posts_replied_to.txt", "w") as f:

@@ -8,7 +8,7 @@ passes to poster
 import praw
 import emojiDictionary
 import emoji
-import reply_post.py
+import reply_post
 
 print("running...")
 reddit = praw.Reddit('bot1') #Creating reddit instance
@@ -24,10 +24,7 @@ for top_level_comment in submission.comments:
         print(emojiString)
         print(top_level_comment)
         #Eventually pass to poster code
-        reply(emojiString, top_level_comment)
-
-def redditComments()
-
+        reply_post.replyMaster(emojiString, top_level_comment)
 
 
 #To do:
