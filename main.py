@@ -9,21 +9,21 @@ import praw
 import emojiDictionary
 import emoji
 import reply_post
-#import time
+import time
+
+reddit = praw.Reddit('bot1') #Creating reddit instance
+
+userInput = input("What subreddit's comments do you want to convert(Submit name of subreddit) - type d for default subreddit: ")
+if (userInput == "d"):
+    subreddit = reddit.subreddit('text2emoji')
+    #subreddit = ("https://www.reddit.com/r/text2emoji/")
+else:
+    subreddit = reddit.subreddit(userInput)
+
+print("running...")
 
 loop = 0
-while (loop < 1): #Eventually near infinite
-
-    reddit = praw.Reddit('bot1') #Creating reddit instance
-
-    userInput = input("What subreddit's comments do you want to convert(Submit name of subreddit) - type d for default subreddit: ")
-    if (userInput == "d"):
-        subreddit = reddit.subreddit('text2emoji')
-        #subreddit = ("https://www.reddit.com/r/text2emoji/")
-    else:
-        subreddit = reddit.subreddit(userInput)
-
-    print("running...")
+while (loop < 100): #Eventually near infinite
 
     #Obtains submission object
     for submission in subreddit.hot(limit=10):
@@ -33,9 +33,9 @@ while (loop < 1): #Eventually near infinite
             if not emojiString == False:
                 emojiString = emoji.emojize(emojiString, use_aliases=True)
                 if(emojiDictionary.lastHadEmoji() == True):
-                    print("To be posted to Reddit")
+                    print("------------------To be posted to Reddit------------------")
                     print(emojiString)
                     print()
                     #reply_post.replyMaster(emojiString, top_level_comment)
     loop = loop + 1 #get rid of this once the while loop is infinite
-    #time.sleep(30) #half a min.
+    time.sleep(30) #half a min.
