@@ -24,9 +24,10 @@ submission.comments.replace_more(limit=0)
 
 for top_level_comment in submission.comments:
     emojiString = emojiDictionary.toEmojiString((top_level_comment.body))
-    emojiString = emoji.emojize(emojiString, use_aliases=True)
-    if(emojiDictionary.lastHadEmoji() == True):
-        print("To be posted to Reddit")
-        print(emojiString)
-        print()
-        reply_post.replyMaster(emojiString, top_level_comment)
+    if not emojiString == False:        
+        emojiString = emoji.emojize(emojiString, use_aliases=True)
+        if(emojiDictionary.lastHadEmoji() == True):
+            print("To be posted to Reddit")
+            print(emojiString)
+            print()
+            #reply_post.replyMaster(emojiString, top_level_comment)
