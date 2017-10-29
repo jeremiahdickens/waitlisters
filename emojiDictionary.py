@@ -1,7 +1,7 @@
 import re;
 dict = [];
 
-wordFile = 'emojiDictionary.txt'
+wordFile = 'dictionary.txt'
 file = open(wordFile)
 
 #Parses file and creates dictionary
