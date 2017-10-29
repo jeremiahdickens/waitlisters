@@ -24,8 +24,8 @@ def toEmojiString(str):
             #MY LIFE WAS PUT INTO THIS
             temp = str;
             escapedStuff = re.sub(r'([\.\\\+\*\?\[\^\]\$\(\)\{\}\!\<\>\|\:\-])', r'\\\1', stuff);
-            pattern = re.compile('( |^|$|\'|\"|\.|,|\\|/|\?|\;|\]|\[)'+escapedStuff+'( |^|$|\'|\"|\.|,|\\|/|\?|\;|\]|\[)');
-            str = pattern.sub(tuple[1], str);
+            pattern = re.compile('( |^|$|\'|\"|\.|,|\\|/|\?|\;|\]|\[)'+escapedStuff+'( |^|$|\'|\"|\.|,|\\|/|\?|\;|\]|\[)', flags=re.I);
+            str = pattern.sub(r'\1'+tuple[1]+r'\2', str);
     global lastHadEmojiBool;
     lastHadEmojiBool = not str.__eq__(original);
     return str;
