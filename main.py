@@ -30,4 +30,4 @@ for top_level_comment in submission.comments:
             print("To be posted to Reddit")
             print(emojiString)
             print()
-            reply_post.replyMaster(emojiString, top_level_comment)
+            #reply_post.replyMaster(emojiString, top_level_comment)
